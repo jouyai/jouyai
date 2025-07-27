@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a passionate full stack web developer who loves buil
 - **Databases/Platforms:** Firebase, Supabase, MongoDB
 
 ## 🌟 Featured Project
-- [Aether Web](#) — My favorite project, designed to push boundaries in web development. (Feel free to add a real link!)
+- [Aether Web](https://github.com/jouyai/aether-web) — My favorite project, designed to push boundaries in web development. (Feel free to add a real link!)
 
 ## 👨‍💻 About Me
 I’m always active in building digital solutions, constantly exploring new tech, and driven by a big passion for creating organized, efficient, and user-friendly web apps.

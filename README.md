@@ -1,4 +1,4 @@
-# Hi, I'm Ary Budiarto 👋
+# Hi, I'm jouyai 👋
 
 **Full Stack Web Developer | Explorer of Digital Solutions**
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m a passionate full stack web developer who loves buil
 I’m always active in building digital solutions, constantly exploring new tech, and driven by a big passion for creating organized, efficient, and user-friendly web apps.
 
 ## 📫 Let’s Connect
-*(Add your social links or website here!)*
+- [LinkedIn](https://www.linkedin.com/in/arybudiarto6/)
 
 ---
 

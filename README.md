@@ -1,6 +1,6 @@
 # Hi, I'm Ary Budiarto 👋
 
-**Full Stack Web Developer | Explorer of Digital Solutions**
+**Full Stack Web Developer**
 
 Welcome to my GitHub! I’m a passionate full stack web developer who loves building clean, efficient, and user-friendly applications—from the front-end to the back-end. I thrive on exploring new technologies and crafting digital solutions that make a real impact.
 

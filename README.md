@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate full stack web developer who loves buil
 
 ## 🚀 Top Skills
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Python
+- **Backend:** Python, NodeJS
 - **Databases/Platforms:** Firebase, Supabase, MongoDB
 
 ## 🌟 Featured Project

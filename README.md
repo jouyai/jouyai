@@ -1,4 +1,4 @@
-# Hi, I'm jouyai 👋
+# Hi, I'm Ary Budiarto 👋
 
 **Full Stack Web Developer | Explorer of Digital Solutions**
 

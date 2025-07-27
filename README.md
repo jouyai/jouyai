@@ -5,9 +5,11 @@
 Welcome to my GitHub! I’m a passionate full stack web developer who loves building clean, efficient, and user-friendly applications—from the front-end to the back-end. I thrive on exploring new technologies and crafting digital solutions that make a real impact.
 
 ## 🚀 Top Skills
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Python, NodeJS
-- **Databases/Platforms:** Firebase, Supabase, MongoDB
+- **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap
+- **Backend:** Python, Node.js (Express.js), Basic REST API
+- **Databases/Platforms:** MongoDB, Firebase, Supabase, MySQL
+- **Tools:** Git & GitHub, VS Code, Basic deployment (Vercel, Netlify, Heroku)
+- **Other:** Responsive Design, Basic Unit Testing
 
 ## 🌟 Featured Project
 - [Aether Web](https://github.com/jouyai/aether-web) — My favorite project, designed to push boundaries in web development. (Feel free to add a real link!)
